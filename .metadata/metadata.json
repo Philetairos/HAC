@@ -1,0 +1,11 @@
+﻿{
+	"name":	"Historically Accurate Courland",
+	"id":	"HAC",
+	"version":	"0.1",
+	"supported_game_version":	"1.0.0",
+	"short_description":	"placeholder",
+	"tags":	["Fixes", "Historical", "Map"],
+	"relationships":	[],
+	"game_custom_data":	{
+}
+}
