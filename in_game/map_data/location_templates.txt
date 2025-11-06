@@ -1477,7 +1477,7 @@ mlada_boleslav = { topography = flatland vegetation = grasslands climate = conti
 frydlant = { topography = hills vegetation = woods climate = continental religion = catholic culture = czech raw_material = iron}
 turnov = { topography = hills vegetation = woods climate = continental religion = catholic culture = czech raw_material = gems}
 cheb = { topography = flatland vegetation = woods climate = continental religion = catholic culture = czech raw_material = tin}
-jachymov = { topography = hills vegetation = forest climate = continental religion = catholic culture = czech raw_material = silver}
+jachymov = { topography = hills vegetation = forest climate = continental religion = catholic culture = czech raw_material = lumber}
 loket = { topography = hills vegetation = woods climate = continental religion = catholic culture = czech raw_material = coal}
 hradec_kralove = { topography = flatland vegetation = woods climate = continental religion = catholic culture = czech raw_material = wild_game}
 jicin = { topography = hills vegetation = grasslands climate = continental religion = catholic culture = czech raw_material = horses}

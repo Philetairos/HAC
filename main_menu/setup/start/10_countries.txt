@@ -783,7 +783,7 @@ countries = {
 			rezekne daugavpils selpils kraslava jelgava  tukums
 			saarde suure_jaani makonkalns aizkraukle salaspils  saldus
 			paide
-			ventspils grobina kuldiga 
+			ventspils grobina kuldiga
 		}
 		
 		include = "catholic_military_order"
@@ -44244,8 +44244,6 @@ countries = {
 		include = "amerindian_mesoamerican_tribe_not_nahuatl"
 		include = "expl_mesoamerica"
 		government = {
-			type = monarchy
-			heir_selection = cognatic_primogeniture
 			ruler = random
 		}
 		court_language = maya_language
@@ -44260,8 +44258,6 @@ countries = {
 		include = "amerindian_mesoamerican_tribe_not_nahuatl"
 		include = "expl_mesoamerica"
 		government = {
-			type = monarchy
-			heir_selection = cognatic_primogeniture
 			ruler = random
 		}
 		court_language = maya_language
@@ -44334,8 +44330,6 @@ countries = {
 		include = "amerindian_mesoamerican_tribe_not_nahuatl"
 		include = "expl_mesoamerica"
 		government = {
-			type = monarchy
-			heir_selection = cognatic_primogeniture
 			ruler = random
 		}
 		court_language = maya_language
@@ -44413,8 +44407,6 @@ countries = {
 		include = "amerindian_mesoamerican_tribe_not_nahuatl"
 		include = "expl_mesoamerica"
 		government = {
-			type = monarchy
-			heir_selection = cognatic_primogeniture
 			ruler = random
 		}
 		court_language = maya_language
