@@ -2,10 +2,9 @@
 	"name":	"Historically Accurate Courland",
 	"id":	"HAC",
 	"version":	"0.1",
-	"supported_game_version":	"1.0.2",
+	"supported_game_version":	"1.0.3",
 	"short_description":	"A mod that fixes some historical inaccuracies in Courland, such as borders.",
 	"tags":	["Fixes", "Historical", "Map"],
 	"relationships":	[],
-	"game_custom_data":	{
-}
+	"game_custom_data":	{}
 }
