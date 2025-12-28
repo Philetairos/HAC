@@ -5136,10 +5136,6 @@ aberystwyth = {
 	feudalism = yes
 	legalism = yes
 }
-dyfi_estuary = {
-	feudalism = yes
-	legalism = yes
-}
 carnarvon = {
 	feudalism = yes
 	legalism = yes
@@ -14897,19 +14893,11 @@ iagorlic = {
 	feudalism = yes
 	legalism = yes
 }
-berezan_liman = {
-	feudalism = yes
-	legalism = yes
-}
 khadzhibey_liman = {
 	feudalism = yes
 	legalism = yes
 }
 kuialnyk_liman = {
-	feudalism = yes
-	legalism = yes
-}
-tylihul_liman = {
 	feudalism = yes
 	legalism = yes
 }
@@ -15305,10 +15293,6 @@ berdiansk = {
 	feudalism = yes
 	legalism = yes
 }
-molochnyi_liman = {
-	feudalism = yes
-	legalism = yes
-}
 taganrog = {
 	feudalism = yes
 	legalism = yes
@@ -15330,10 +15314,6 @@ shyrokyne = {
 	legalism = yes
 }
 vasylivka = {
-	feudalism = yes
-	legalism = yes
-}
-mius_liman = {
 	feudalism = yes
 	legalism = yes
 }
